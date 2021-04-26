@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "235670218865",
+    "project_id": "chat-online-ff41c",
+    "storage_bucket": "chat-online-ff41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235670218865:android:d9ee0412caf6acb6b353d0",
+        "android_client_info": {
+          "package_name": "br.com.iranjuniordev.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235670218865-pesa4mc29p6b54o7c1eor6lf53d0qhni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.iranjuniordev.chat_online",
+            "certificate_hash": "ba4724c0f00bca6c61e9c27cce28d2175fbf8fb1"
+          }
+        },
+        {
+          "client_id": "235670218865-fbgp7c18uqblngtjei1gnfbf5g64i7gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-DVF4t8xpHKeJhsVggFakVecBwqDZcd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235670218865-fbgp7c18uqblngtjei1gnfbf5g64i7gj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235670218865-8fg9lcmsnp8pq1s6a0lo4u6arng7h0nr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.iranjuniordev.chatOnline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
